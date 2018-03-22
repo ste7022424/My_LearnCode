@@ -1,0 +1,6 @@
+D:\Desktop\Steven\C#\1_Class\1_Class\bin\Debug\1_Class.exe.config
+D:\Desktop\Steven\C#\1_Class\1_Class\bin\Debug\1_Class.exe
+D:\Desktop\Steven\C#\1_Class\1_Class\bin\Debug\1_Class.pdb
+D:\Desktop\Steven\C#\1_Class\1_Class\obj\Debug\1_Class.csprojResolveAssemblyReference.cache
+D:\Desktop\Steven\C#\1_Class\1_Class\obj\Debug\1_Class.exe
+D:\Desktop\Steven\C#\1_Class\1_Class\obj\Debug\1_Class.pdb
