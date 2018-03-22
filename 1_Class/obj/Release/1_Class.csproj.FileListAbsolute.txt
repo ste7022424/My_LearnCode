@@ -1,5 +1,0 @@
-D:\Desktop\Steven\C#\1_Class\1_Class\bin\Release\1_Class.exe.config
-D:\Desktop\Steven\C#\1_Class\1_Class\bin\Release\1_Class.exe
-D:\Desktop\Steven\C#\1_Class\1_Class\bin\Release\1_Class.pdb
-D:\Desktop\Steven\C#\1_Class\1_Class\obj\Release\1_Class.exe
-D:\Desktop\Steven\C#\1_Class\1_Class\obj\Release\1_Class.pdb
