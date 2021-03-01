@@ -12,6 +12,7 @@ namespace _1_Class
         {
             var S1 = new School_Member("小張",10,2);
             Console.WriteLine(S1.AboutYourSelf());
+            Console.WriteLine(S1.AboutYourSelf());
         }
     }
 }
